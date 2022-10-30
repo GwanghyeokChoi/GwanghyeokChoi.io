@@ -48,6 +48,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gh-pages -d public -b master -r 'git@github.com:GwangyheokChoi/gwanghyeokchoi.github.io.git'"
+    "depoly": "gatsby build && gh-pages -d public -b master"
   }
 }
