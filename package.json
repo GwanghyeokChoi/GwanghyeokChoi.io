@@ -8,6 +8,8 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@fontsource/nanum-gothic": "^4.5.7",
+    "@fontsource/noto-sans": "^4.5.11",
     "gatsby": "^4.24.3",
     "gatsby-plugin-feed": "^4.24.0",
     "gatsby-plugin-image": "^2.24.0",
