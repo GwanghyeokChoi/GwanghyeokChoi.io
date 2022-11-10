@@ -46,7 +46,7 @@ const Bio = () => {
         <p>
           {author?.summary || null}
           {` `}
-          <a href={`${social?.github || ``}`}>
+          <a href={`${social?.github || `https://github.com/GwanghyeokChoi`}`}>
             GitHub
           </a>
         </p>
