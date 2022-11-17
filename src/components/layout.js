@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://befitting-leek-933.notion.site/4f08f20f6ade490990f671e6f81a32da">Notion</a>
+        <a href="https://www.gatsbyjs.com/starters/">Gatsby</a>
       </footer>
     </div>
   )
