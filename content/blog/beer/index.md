@@ -279,3 +279,16 @@ description: 다양한 종류의 술을 마셔보고 기록하는 페이지
 ![Seongsan Sunrise Peak Img](./img/seongsan_sunrise.png)
     
 </details>
+
+# 2022.12.15
+<details>
+<summary>매화수 (초록병)</summary>
+
+    - 도수: 12%
+    - 특징: '저온 냉동 여과공법'을 사용해 부드럽고 깨끗한 맛!
+    - 개인평: 매실 음료를 먹는 맛 맛은 있고 도수도 적당히 있어서 기분이가 좋아지는 맛
+    - 평점: ★★★★★
+    
+![Seongsan Sunrise Peak Img](./img/green_plum.png)
+    
+</details>
