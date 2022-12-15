@@ -266,6 +266,7 @@ description: 다양한 종류의 술을 마셔보고 기록하는 페이지
     - 평점: ★★☆☆☆
     
 ![Hanmac Img](./img/hanmac.png)
+</details>
 
 # 2022.08.09
 <details>
