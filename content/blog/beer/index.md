@@ -306,3 +306,16 @@ description: 다양한 종류의 술을 마셔보고 기록하는 페이지
 ![Seongsan Sunrise Peak Img](./img/Budweiser.png)
     
 </details>
+
+# 2022.12.17
+<details>
+<summary>원소주</summary>
+
+    - 도수: 24%
+    - 특징: 술맛이 깔끔하고 목 넘김이 부드럽다. 감압증류(대기압보다 낮은 압력에서 증류)한 술의 특징이다
+    - 개인평: 소주보단 비싸고 사케보단 싼마이가 나는 맛 개인적으로 이 돈 좀 더 모아서 사케 먹을 듯
+    - 평점: ★★☆☆☆
+    
+![Seongsan Sunrise Peak Img](./img/One_Soju.png)
+    
+</details>
