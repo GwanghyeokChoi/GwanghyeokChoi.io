@@ -45,11 +45,11 @@ const Bio = () => {
       {author?.name && (
         <p>
           {author?.summary || null}
-          {` `}
+          {` | `}
           <a href={`${social?.github || `https://github.com/GwanghyeokChoi`}`}>
             GitHub
           </a>
-          {` / `}
+          {` | `}
           <a href={`${social?.notion || `https://befitting-leek-933.notion.site/4f08f20f6ade490990f671e6f81a32da`}`}>
             Notion
           </a>
