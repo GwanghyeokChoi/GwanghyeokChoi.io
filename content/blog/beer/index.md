@@ -319,3 +319,55 @@ description: 다양한 종류의 술을 마셔보고 기록하는 페이지
 ![Seongsan Sunrise Peak Img](./img/One_Soju.png)
     
 </details>
+
+# 2023.01.04
+<details>
+<summary>산토리 프리미엄 몰츠</summary>
+
+    - 도수: 5.5%
+    - 특징: 일본 최고의 맥주 중 하나로 손꼽히며 홉 향이 매우 진하고 쓴 맛과 단 맛이 강조 된 맥주
+    - 개인평: 생맥주로 바로 마셔서 그런지 같이 먹었던 안주가 맛있었는지 모르겠지만 생각보다 괜찮은 맥주
+    - 평점: ★★★★☆
+    
+![Seongsan Sunrise Peak Img](./img/suntory_premium_malts.png)
+    
+</details>
+
+# 2023.01.04
+<details>
+<summary>화요 25</summary>
+
+    - 도수: 25%
+    - 특징: 제법상 증류식 소주이기는 하나 가양주로 전승된 것이 아니라 증류식 소주라는 개념만을 사용해 현대적으로 만들어낸 술
+    - 개인평: 도수가 있는거라 그런지 목넘김이 있고 요즘 이런 강한게 좋아서 그런지 굉장히 맛있었음
+    - 평점: ★★★★☆
+    
+![Seongsan Sunrise Peak Img](./img/hwayo25.jpg)
+    
+</details>
+
+# 2023.01.20
+<details>
+<summary>별빛청하 스파클링</summary>
+
+    - 도수: 7%
+    - 특징: 일반적인 청하에 탄산과 화이트 와인을 섞어 목넘김과 적절한 단맛이 있는 술
+    - 개인평: 그냥 대놓고 맛있으라고 만든 술이라 맛이 없을 수가 없었다 대신에 가격 대비 양이 좀 적었음
+    - 평점: ★★★☆☆
+    
+![Seongsan Sunrise Peak Img](./img/starlight_cheongha.jpg)
+    
+</details>
+
+# 2023.01.24
+<details>
+<summary>화요 41</summary>
+
+    - 도수: 41%
+    - 특징: 제법상 증류식 소주이기는 하나 가양주로 전승된 것이 아니라 증류식 소주라는 개념만을 사용해 현대적으로 만들어낸 술
+    - 개인평: 그냥 한 번 마시면 내 위장이 속 위치를 알 수 있는 술. 굉장히 뜨겁게 목넘김이 묵직하고 입 안에 향이 오래 남아 있는다. 개인적으로 그 느낌이 괜찮았음
+    - 평점: ★★★★☆
+    
+![Seongsan Sunrise Peak Img](./img/hwayo41.png)
+    
+</details>
