@@ -371,3 +371,16 @@ description: 다양한 종류의 술을 마셔보고 기록하는 페이지
 ![Seongsan Sunrise Peak Img](./img/hwayo41.png)
     
 </details>
+
+# 2023.02.04
+<details>
+<summary>와일드 터키</summary>
+
+    - 도수: 50%
+    - 특징: 공개된 매시빌은 옥수수 75%, 호밀 13%, 맥아 12%이며, 여타 버번보다 호밀 비율이 높다는 것을 자체적으로 강조한다
+    - 개인평: 온더락에 얼음을 넣어 먹어도 맛있었지만, 샷으로 먹었을 때 남는 향은 진짜 지워지지 않을 정도로 즣은 향이였다
+    - 평점: ★★★★★
+    
+![Seongsan Sunrise Peak Img](./img/wild_turkey.png)
+    
+</details>
